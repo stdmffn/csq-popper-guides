@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+releases/
+tmp/
+runtime/
+last-database.txt
+table-mappings.csv
+CSQ-Guide-Backups/
+*.db
+*.db-*
+.DS_Store
